@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/bg3"
+    tools:context=".teacherclasses.selectyear">
+
+        <TextView
+            android:id="@+id/select1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:text="Select Year"
+            android:textColor="#22CABA"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+                />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="I year"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:id="@+id/year1"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="II year"
+        android:textSize="30dp"
+        android:id="@+id/year2"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="III year"
+        android:textSize="30dp"
+        android:id="@+id/year3"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="IV year"
+        android:textSize="30dp"
+        android:id="@+id/year4"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+
+</LinearLayout>

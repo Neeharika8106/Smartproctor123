@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/bg3"
+    tools:context=".teacherclasses.Listingstudents">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Select a student to see details"
+        android:textSize="25dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/purple_200"
+        />
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/studentlist"
+        android:divider="@color/white"
+        android:dividerHeight="5dp"
+        android:scrollbarStyle="outsideInset"
+        android:listSelector="@color/skyBlue"
+
+        >
+    </ListView>
+
+
+
+
+
+
+</LinearLayout>

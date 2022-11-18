@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable-v24/ic_baseline_phone_24.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/button.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/edit.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/ic_lock.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/ic_person.xml" value="0.1425" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/drawable/progressbar.xml" value="0.1645" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_addstudent.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_callproctor.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_enterattend.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_entermarks.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_forgot_password.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_listingstudents.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_loginpage.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_newuser.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_overalldata.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_parentinterface.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_proctorstart.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_profile.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_selectmarks.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_selectyear.xml" value="0.1936725096194955" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_studentatt.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_studentdetails.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_studentinterface.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_studentmarks.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_takeattendance.xml" value="0.264" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_teacheratt.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/activity_teacherinterface.xml" value="0.176" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/fragment_attendance.xml" value="0.20094057289439932" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/fragment_marks.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/header_menu.xml" value="0.6" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/layout/list_item.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/menu/manudrawer.xml" value="0.20436083796494228" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/menu/navigation.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/menu/navigation2.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/menu/studentinterface.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.164" />
+        <entry key="..\:/Users/ankit/AndroidStudioProjects/Smartproctor/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.164" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

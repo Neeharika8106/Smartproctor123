@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9125043950",
+    "project_id": "smart-proctor-7a9c1",
+    "storage_bucket": "smart-proctor-7a9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9125043950:android:887c5f63e0b34a8c02ddff",
+        "android_client_info": {
+          "package_name": "com.example.smartproctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9125043950-89mpcsct73crn44g429sq1t1ir4lqs1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs53efRIEm1wcqYhg1ApgfqDterSBZqYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9125043950-89mpcsct73crn44g429sq1t1ir4lqs1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

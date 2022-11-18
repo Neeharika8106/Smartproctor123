@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.smartproctor">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SmartProctor"
+        tools:targetApi="31">
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".teacherclasses.Overalldata"
+            android:exported="false" />
+        <activity
+            android:name=".teacherclasses.Enterattend"
+            android:exported="true" />
+        <activity
+            android:name=".Childperformance"
+            android:exported="true" />
+        <activity
+            android:name=".teacherclasses.Entermarks"
+            android:exported="true" />
+        <activity
+            android:name=".studentclasses.Studentmarks"
+            android:exported="true" />
+        <activity
+            android:name=".teacherclasses.Studentdetails"
+            android:exported="true"
+            android:label="Student Details" />
+        <activity
+            android:name=".teacherclasses.addstudent"
+            android:exported="true"
+            android:label="@string/yourText" />
+        <activity
+            android:name=".teacherclasses.Takeattendance"
+            android:exported="true"
+            android:label="@string/takeattendance" />
+        <activity
+            android:name=".teacherclasses.Proctorstart"
+            android:exported="true"
+            android:label="@string/proctor" />
+        <activity
+            android:name=".teacherclasses.Selectmarks"
+            android:exported="true" />
+        <activity
+            android:name=".teacherclasses.selectyear"
+            android:exported="true" />
+        <activity
+            android:name=".teacherclasses.Listingstudents"
+            android:exported="true" />
+        <activity
+            android:name=".teacherclasses.Teacheratt"
+            android:exported="false" />
+        <activity
+            android:name=".studentclasses.Studentatt"
+            android:exported="true" />
+        <activity
+            android:name=".Parentinterface"
+            android:exported="true" />
+        <activity
+            android:name=".Teacherinterface"
+            android:exported="true" />
+        <activity
+            android:name=".Studentinterface"
+            android:exported="true" />
+        <activity
+            android:name=".forgot_password"
+            android:exported="true" />
+        <activity
+            android:name=".Newuser"
+            android:exported="true" />
+        <activity
+            android:name=".Loginpage"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
